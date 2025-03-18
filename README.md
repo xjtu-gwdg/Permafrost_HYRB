@@ -1,7 +1,7 @@
 # Permafrost_HYRB
 
 ## Overview
-This project is an example implementation of the GIPL2 permafrost model ([GIPL](https://github.com/Elchin/GIPL))  for the Headwater of the Yellow River Basin (HYRB). This project provides a demonstration of running the GIPL2 model with input data from 2010 to 2012. The temporal resolution of the simulation is 1 month, and the spatial resolution is 1 km.
+This project is an example implementation of the GIPL2 permafrost model ([GIPL](https://github.com/Elchin/GIPL))  for the Headwater of the Yellow River Basin (HYRB). This project provides a demonstration of running the GIPL2 model with input data from 2010 to 2012 to simulate the MAGT dynamics of permafrost. The temporal resolution of the simulation is 1 month, and the spatial resolution is 1 km.
 
 ## Project Structure
 ```
